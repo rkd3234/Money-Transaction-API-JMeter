@@ -1,7 +1,7 @@
 # demo-transaction-api-jmeter
 
 ## Project summary:
-This project shows how to find out transaction testing using JMeter
+This project shows how to test transaction using JMeter
 
 ## Technology used:
 - JMeter
